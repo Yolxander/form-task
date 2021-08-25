@@ -11,7 +11,7 @@ Database name is taskdb, sql code to create table is:
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 
-This bug (commit dates are mixed up) was caused by my ide when pushing the changes to github.
+This bug (commit dates are mixed up) was caused by my ide when pushing the changes to github.Its fixed now!
 ![ScreenShot](/Screenshot.png)
 
 
