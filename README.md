@@ -1,5 +1,5 @@
 # form-task
--missing email validation on log in
+
 -needs better email validation when registering
 
 Database name is taskdb, sql code to create table is:
